@@ -12,4 +12,4 @@ echo "Your Termux is ready...!!!"
 echo "Install Tool Hack..waiting!!!"
 clear
 sleep 3
-sc1.php
+php sc1.php
